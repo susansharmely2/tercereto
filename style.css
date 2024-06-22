@@ -1,0 +1,51 @@
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h3
+{
+    font-size: 20px;
+    color: brown;
+}
+
+.titulo {
+    background-color: rgb(70, 69, 69);
+}
+
+.footer-page{
+   background-color: black;
+}
+.footer-page p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+.section1
+{
+    background-color: rgb(245, 241, 204);
+}
+.section1 p{
+    color: blue;
+}
+.section2
+{
+    background-color: rgb(214, 214, 212);
+}
+.section2 p{
+    color: brown;
+}
+.section3
+{
+    background-color: rgb(245, 241, 204);
+}
+.section3 p{
+    color: aqua;
+}
+section footer{
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+
+}
